@@ -76,23 +76,25 @@ The objective of this repository is to build a strong statistical foundation req
 
 # 📊 Statistical Visualizations
 
+The following visualizations demonstrate various statistical techniques used for understanding data distributions, identifying patterns, detecting outliers, and validating assumptions.
+
 <table>
 <tr>
 <td align="center">
-<b>Histogram</b><br>
-<img src="images/histogram.png" width="400">
+<b>Bar Plot</b><br>
+<img src="images/bar_plot.png" width="400">
 </td>
 
 <td align="center">
 <b>Box Plot</b><br>
-<img src="images/boxplot.png" width="400">
+<img src="images/box_plot.png" width="400">
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<b>Bar Chart</b><br>
-<img src="images/bar_chart.png" width="400">
+<b>Distribution Plot</b><br>
+<img src="images/dist_plot.png" width="400">
 </td>
 
 <td align="center">
@@ -118,20 +120,15 @@ The objective of this repository is to build a strong statistical foundation req
 <b>ECDF</b><br>
 <img src="images/ecdf.png" width="400">
 </td>
-
-<td align="center">
-<b>Swarm Plot</b><br>
-<img src="images/swarm_plot.png" width="400">
-</td>
+  
 </tr>
 </table>
 
-```
-
+---
 
 ## 📂 Repository Structure
 
-```
+```text
 Statistics-for-Data-Science
 │
 ├── dataset/
@@ -147,12 +144,12 @@ Statistics-for-Data-Science
 
 ## 📈 Repository Highlights
 
-- Well-structured notes
-- Practical Python implementations
-- Visual explanations using graphs
-- Hands-on statistical analysis
-- Real-world datasets
-- Beginner-friendly notebooks
+- 📚 Well-structured statistical notes
+- 💻 Practical Python implementations
+- 📊 Rich visualizations and graphs
+- 🧪 Hands-on statistical analysis
+- 📁 Real-world datasets
+- 🚀 Beginner-friendly Jupyter notebooks
 
 ---
 
@@ -166,7 +163,7 @@ Statistics-for-Data-Science
 
 ---
 
-## 📚 Learning Outcome
+## 📚 Learning Outcomes
 
 By completing this repository, you will gain a strong understanding of statistical concepts that are widely used in:
 
