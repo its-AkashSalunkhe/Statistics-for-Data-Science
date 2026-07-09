@@ -1,0 +1,24 @@
+numpy>=2.0.0
+pandas>=2.0.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+scipy>=1.13.0
+statsmodels>=0.14.0
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
+
+
+
+
+| Package       | Purpose                                      |
+| ------------- | -------------------------------------------- |
+| `numpy`       | Numerical computations                       |
+| `pandas`      | Data manipulation and analysis               |
+| `matplotlib`  | Data visualization                           |
+| `seaborn`     | Statistical visualizations                   |
+| `scipy`       | Statistical functions and hypothesis testing |
+| `statsmodels` | Advanced statistical models and tests        |
+| `jupyter`     | Launches Jupyter Notebook/Lab                |
+| `notebook`    | Jupyter Notebook interface                   |
+| `ipykernel`   | Python kernel for Jupyter                    |
