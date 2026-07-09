@@ -74,6 +74,61 @@ The objective of this repository is to build a strong statistical foundation req
 
 ---
 
+# 📊 Statistical Visualizations
+
+<table>
+<tr>
+<td align="center">
+<b>Histogram</b><br>
+<img src="images/histogram.png" width="400">
+</td>
+
+<td align="center">
+<b>Box Plot</b><br>
+<img src="images/boxplot.png" width="400">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Bar Chart</b><br>
+<img src="images/bar_chart.png" width="400">
+</td>
+
+<td align="center">
+<b>Violin Plot</b><br>
+<img src="images/violin_plot.png" width="400">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Density Plot</b><br>
+<img src="images/density_plot.png" width="400">
+</td>
+
+<td align="center">
+<b>Q-Q Plot</b><br>
+<img src="images/qq_plot.png" width="400">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>ECDF</b><br>
+<img src="images/ecdf.png" width="400">
+</td>
+
+<td align="center">
+<b>Swarm Plot</b><br>
+<img src="images/swarm_plot.png" width="400">
+</td>
+</tr>
+</table>
+
+```
+
+
 ## 📂 Repository Structure
 
 ```
